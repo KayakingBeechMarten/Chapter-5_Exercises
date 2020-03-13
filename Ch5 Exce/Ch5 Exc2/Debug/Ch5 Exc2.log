@@ -1,0 +1,3 @@
+﻿  Ch5 Exc2.cpp
+D:\Coding!\C++\Ch5 Exc2\Ch5 Exc2.cpp(9,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Ch5 Exc2.vcxproj -> D:\Coding!\C++\Ch5 Exc2\Debug\Ch5 Exc2.exe
